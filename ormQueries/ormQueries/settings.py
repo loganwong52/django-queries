@@ -20,9 +20,6 @@ TEST_RUNNER="redgreenunittest.django.runner.RedGreenDiscoverRunner"
 # Quick-start development settings - unsuitable for production
 # See https://docs.djangoproject.com/en/2.1/howto/deployment/checklist/
 
-# SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = 'o5mpy!w&uv-ln9x+c4k$r()qj!+askw244t(vjred5-e#6)ews'
-
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
